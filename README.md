@@ -11,11 +11,11 @@
 
    - 🤝 I’m looking for help with **React and Next.Js**
 
-   - 👨‍💻 All of my projects are available at [github.com](ghithub.com/javiersrf)
+   - 👨‍💻 All of my projects are available at [javiersrf github.com](github.com/javiersrf) and [jsrf github.com](github.com/admin-srf)
 
    - 💬 Ask me about **Anything and I'll research to answer you**
 
-   - 📄 Know about my experiences [linkedin.com/javiersrf](linkedin.com/javiersrf)
+   - 📄 Know about my experiences [linkedin.com/javiersrf](https://linkedin.com/in/javiersrf)
 
    - ⚡ Fun fact **Conta uma piadinha**
 
