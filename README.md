@@ -9,13 +9,13 @@
 
    - 👯 I’m looking to collaborate on **FastAPI Projects**
 
-   - 🤝 I’m looking for help with **React and Next.Js**
+   - 🤝 I’m looking for help with **Golang and devops**
 
    - 👨‍💻 All of my projects are available at [javiersrf github.com](https://www.github.com/javiersrf) and [jsrf github.com](https://www.github.com/admin-srf)
 
    - 📄 Know about my experiences [linkedin.com/javiersrf](https://linkedin.com/in/javiersrf)
 
-   - ⚡ Fun fact **Conta uma piadinha**
+   - ⚡ Fun fact **Sou formado em engenharia mecanica**
 
 
    <h3 align="left">Languages and Tools:</h3>
