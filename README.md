@@ -11,9 +11,7 @@
 
    - 🤝 I’m looking for help with **React and Next.Js**
 
-   - 👨‍💻 All of my projects are available at [javiersrf github.com](github.com/javiersrf) and [jsrf github.com](github.com/admin-srf)
-
-   - 💬 Ask me about **Anything and I'll research to answer you**
+   - 👨‍💻 All of my projects are available at [javiersrf github.com](https://www.github.com/javiersrf) and [jsrf github.com](https://www.github.com/admin-srf)
 
    - 📄 Know about my experiences [linkedin.com/javiersrf](https://linkedin.com/in/javiersrf)
 
